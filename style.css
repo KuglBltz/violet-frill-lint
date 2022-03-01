@@ -269,3 +269,11 @@ background: blue;
   font-size: 40px;
   font-family: "Lucida Console", "Courier New", monospace;
 }
+
+.deblock {
+  font-family: Monospace;
+  font-size: 15px;
+  color: red;
+  border-color: white;
+  padding: 5px;
+}
