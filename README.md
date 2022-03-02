@@ -16,4 +16,4 @@ This is a basic HTML starter project that I and some of my friends thought we sh
 
 Open each file and check out the comments (in gray) for more info.
 
-[Follow me](https://github.com/KuglBltz/) and check out this [Repository!](https://github.com/KuglBltz/violet-frill-lint)
+[Follow me](https://github.com/KuglBltz/) and check out this [Repository!](https://github.com/KuglBltz/violet-frill-lint) or check out the [Website](https://www.kugelblitz.gq/)
